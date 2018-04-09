@@ -1,3 +1,5 @@
+<strong> ReactJS production / NodeJS </strong>
+
 # USER-LIST
 
 <p align="center"><img src="Screenshot.png" /></p>
@@ -27,5 +29,3 @@
 
 Предусмотрите валидацию полей ввода (имена и фамилии должны быть строками, а дни пользования и ставка,
 соответсвенно целыми числами).
-
-<i> Реализация - Production под NodeJS </i>
